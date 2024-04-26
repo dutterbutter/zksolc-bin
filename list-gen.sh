@@ -7,7 +7,8 @@ update_list_json() {
     local dir=$1
     local file_path=$2
     local binary_name=$(basename "$file_path")
-    local version=$(echo "$binary_name" | grep -o 'v[0-9]*\.[0-9]*\.[0-9]*')
+    # Extract version and remove the leading 'v'
+    local version=$(echo "$binary_name" | grep -o 'v[0-9]*\.[0-9]*\.[0-9]*' | sed 's/^v//')
     local sha256
 
     if command -v sha256sum >/dev/null; then

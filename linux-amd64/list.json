@@ -1,121 +1,121 @@
 {
   "builds": [
     {
-      "version": "v1.3.2",
+      "version": "1.3.2",
       "sha256": "cb4ccda8eebdb92d06b337d8f8752ea3310e3621278b37673f0e43479b038da2"
     },
     {
-      "version": "v1.3.5",
+      "version": "1.3.5",
       "sha256": "20c7c730beb8139646b40d6e46f3798a5680e14cd954d95d03f8067ebe36884d"
     },
     {
-      "version": "v1.3.23",
+      "version": "1.3.23",
       "sha256": "7a44e407f801b307d1ef09ce29abcc619cabf01687e4ebe76ef9b939d508e892"
     },
     {
-      "version": "v1.3.22",
+      "version": "1.3.22",
       "sha256": "6fb232beb5b11d096a27d14110d51392dc48f50ad7ef8cea8b3ad5271dfc2bd6"
     },
     {
-      "version": "v1.3.4",
+      "version": "1.3.4",
       "sha256": "2cdd908cdfc1f769f2f0137c9207e5447c320b617119bc0bbdf4a08090e9e32c"
     },
     {
-      "version": "v1.3.13",
+      "version": "1.3.13",
       "sha256": "2ada8ae3ff8e7b604c810689b486613f0ea77e3fe3d168907b6e984a157670d0"
     },
     {
-      "version": "v1.3.14",
+      "version": "1.3.14",
       "sha256": "9e2c137b3e3a6b2392373928cf6f001f42b3fe1c78f0c3f56ced6c0ac6966072"
     },
     {
-      "version": "v1.3.3",
+      "version": "1.3.3",
       "sha256": "856017078062995fa65eb73a31b57b7bb3bd6d411b02c7e69e183085e7ff24fa"
     },
     {
-      "version": "v1.3.6",
+      "version": "1.3.6",
       "sha256": "9e6dc20a5eded9f166bea24d9fc1d6fb409a65381951ddd095fec392312d1cec"
     },
     {
-      "version": "v1.3.11",
+      "version": "1.3.11",
       "sha256": "f4f622f7b82a32410e4a7100274c3b213121dbb9c4691b7551e5412f97dbbd4e"
     },
     {
-      "version": "v1.3.16",
+      "version": "1.3.16",
       "sha256": "fb5158d2c6535370097c12252c905c6d3ffceec970b754d22873d062a90d073d"
     },
     {
-      "version": "v1.3.1",
+      "version": "1.3.1",
       "sha256": "b0c5d99896cf5343ebadabad531bb9d574476879847de4d612005b6e27ffa7bb"
     },
     {
-      "version": "v1.3.8",
+      "version": "1.3.8",
       "sha256": "3d805ec7a40e491c1d8563e07a75eead22f72315265f7660b5ce27056c01ba48"
     },
     {
-      "version": "v1.3.18",
+      "version": "1.3.18",
       "sha256": "3de6b3d060c04ee9f4c4bf803dcf3215beb4611cea7bae15f3f6bfe71ad768bb"
     },
     {
-      "version": "v1.3.19",
+      "version": "1.3.19",
       "sha256": "b73af412912b07c5c01ce4f9549024ccaa87cd0a6bbdcd421da195ee26e811a6"
     },
     {
-      "version": "v1.3.21",
+      "version": "1.3.21",
       "sha256": "06c8c5a525c1cf55beefa95aa492b686e32aeb0e6d8d11c612c9f19e06525110"
     },
     {
-      "version": "v1.3.9",
+      "version": "1.3.9",
       "sha256": "4c31a9d95f7c64e3990a3f991c55cf7f43bd0d79a76593debf021db4156abb8b"
     },
     {
-      "version": "v1.3.17",
+      "version": "1.3.17",
       "sha256": "443cefc7718e456c0be71f034aed874718144d9f5e6baa355be5c4ad1fb1961e"
     },
     {
-      "version": "v1.3.0",
+      "version": "1.3.0",
       "sha256": "73cf0106c2daacdb85d32170ca2503bfdd95fb46009716fda823b65b3925424d"
     },
     {
-      "version": "v1.3.7",
+      "version": "1.3.7",
       "sha256": "64867573382dad073585a3bff2d8d79ce70182cb750dd1707f1e818839134cbe"
     },
     {
-      "version": "v1.3.10",
+      "version": "1.3.10",
       "sha256": "92b1dd2960c700e542a45e71ed29e856989b2f5a362b07b797cd4d2c4bfc7694"
     },
     {
-      "version": "v1.4.0",
+      "version": "1.4.0",
       "sha256": "15ec8f15c1684173c53756220af1a80b4af159959154acc8f4c3a7170e1e1018"
     },
     {
-      "version": "v1.4.1",
+      "version": "1.4.1",
       "sha256": "a6ebc0412961583b8d70e04320168be411843bd9e178071322ea48baafed7375"
     }
   ],
   "releases": {
-    "v1.3.2": "zksolc-linux-amd64-musl-v1.3.2",
-    "v1.3.5": "zksolc-linux-amd64-musl-v1.3.5",
-    "v1.3.23": "zksolc-linux-amd64-musl-v1.3.23",
-    "v1.3.22": "zksolc-linux-amd64-musl-v1.3.22",
-    "v1.3.4": "zksolc-linux-amd64-musl-v1.3.4",
-    "v1.3.13": "zksolc-linux-amd64-musl-v1.3.13",
-    "v1.3.14": "zksolc-linux-amd64-musl-v1.3.14",
-    "v1.3.3": "zksolc-linux-amd64-musl-v1.3.3",
-    "v1.3.6": "zksolc-linux-amd64-musl-v1.3.6",
-    "v1.3.11": "zksolc-linux-amd64-musl-v1.3.11",
-    "v1.3.16": "zksolc-linux-amd64-musl-v1.3.16",
-    "v1.3.1": "zksolc-linux-amd64-musl-v1.3.1",
-    "v1.3.8": "zksolc-linux-amd64-musl-v1.3.8",
-    "v1.3.18": "zksolc-linux-amd64-musl-v1.3.18",
-    "v1.3.19": "zksolc-linux-amd64-musl-v1.3.19",
-    "v1.3.21": "zksolc-linux-amd64-musl-v1.3.21",
-    "v1.3.9": "zksolc-linux-amd64-musl-v1.3.9",
-    "v1.3.17": "zksolc-linux-amd64-musl-v1.3.17",
-    "v1.3.0": "zksolc-linux-amd64-musl-v1.3.0",
-    "v1.3.7": "zksolc-linux-amd64-musl-v1.3.7",
-    "v1.3.10": "zksolc-linux-amd64-musl-v1.3.10",
-    "v1.4.0": "zksolc-linux-amd64-musl-v1.4.0",
-    "v1.4.1": "zksolc-linux-amd64-musl-v1.4.1"
+    "1.3.2": "zksolc-linux-amd64-musl-v1.3.2",
+    "1.3.5": "zksolc-linux-amd64-musl-v1.3.5",
+    "1.3.23": "zksolc-linux-amd64-musl-v1.3.23",
+    "1.3.22": "zksolc-linux-amd64-musl-v1.3.22",
+    "1.3.4": "zksolc-linux-amd64-musl-v1.3.4",
+    "1.3.13": "zksolc-linux-amd64-musl-v1.3.13",
+    "1.3.14": "zksolc-linux-amd64-musl-v1.3.14",
+    "1.3.3": "zksolc-linux-amd64-musl-v1.3.3",
+    "1.3.6": "zksolc-linux-amd64-musl-v1.3.6",
+    "1.3.11": "zksolc-linux-amd64-musl-v1.3.11",
+    "1.3.16": "zksolc-linux-amd64-musl-v1.3.16",
+    "1.3.1": "zksolc-linux-amd64-musl-v1.3.1",
+    "1.3.8": "zksolc-linux-amd64-musl-v1.3.8",
+    "1.3.18": "zksolc-linux-amd64-musl-v1.3.18",
+    "1.3.19": "zksolc-linux-amd64-musl-v1.3.19",
+    "1.3.21": "zksolc-linux-amd64-musl-v1.3.21",
+    "1.3.9": "zksolc-linux-amd64-musl-v1.3.9",
+    "1.3.17": "zksolc-linux-amd64-musl-v1.3.17",
+    "1.3.0": "zksolc-linux-amd64-musl-v1.3.0",
+    "1.3.7": "zksolc-linux-amd64-musl-v1.3.7",
+    "1.3.10": "zksolc-linux-amd64-musl-v1.3.10",
+    "1.4.0": "zksolc-linux-amd64-musl-v1.4.0",
+    "1.4.1": "zksolc-linux-amd64-musl-v1.4.1"
   }
 }

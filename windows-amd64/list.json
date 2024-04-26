@@ -1,121 +1,121 @@
 {
   "builds": [
     {
-      "version": "v1.4.1",
+      "version": "1.4.1",
       "sha256": "f19328db1991bc791f20f492c93073a7200ccc594f991a9b579d6b35471289ce"
     },
     {
-      "version": "v1.3.22",
+      "version": "1.3.22",
       "sha256": "2cb2736f4f240278fff996308e76c2c2cdc738989c73ac9ebb90cb152f153958"
     },
     {
-      "version": "v1.3.23",
+      "version": "1.3.23",
       "sha256": "a316b3e5287b2691fe24e8827320306289bd7bf6f6c6a90e7faf8d59ae71bc8f"
     },
     {
-      "version": "v1.4.0",
+      "version": "1.4.0",
       "sha256": "74cc9c76d5e97fed7f23a3388c7ec84abf4a866cbb7a0c41fc96074c482befda"
     },
     {
-      "version": "v1.3.21",
+      "version": "1.3.21",
       "sha256": "1e48d7e4afaf53997caee41eeca062077bf8a35879050dedc6f90acb502b780c"
     },
     {
-      "version": "v1.3.18",
+      "version": "1.3.18",
       "sha256": "94a0aff1808e73222f634573e237878a2b375d7f3cfc57c799c5d7f1aab752db"
     },
     {
-      "version": "v1.3.19",
+      "version": "1.3.19",
       "sha256": "754e30d0926f6b8b30e6a42d75457b2fd0dc1cf92805622ead504dfa92ae23fa"
     },
     {
-      "version": "v1.3.4",
+      "version": "1.3.4",
       "sha256": "d61f58e048f79517fe129a02884c5f02dbed26492d1fe2858cc67eeb96f8c099"
     },
     {
-      "version": "v1.3.5",
+      "version": "1.3.5",
       "sha256": "283783de4bed330bcddbb595c1d33f7fb390eb536224d4b0d6b8f739e811b270"
     },
     {
-      "version": "v1.3.7",
+      "version": "1.3.7",
       "sha256": "6c01f5e67a88d8e960775316e11c615f97027ca592805745f04ff7614b4c14ae"
     },
     {
-      "version": "v1.3.6",
+      "version": "1.3.6",
       "sha256": "260b7d746b47b7923315c5707a2829c7a5e7e938bc70affd92233358f84ccbcc"
     },
     {
-      "version": "v1.3.2",
+      "version": "1.3.2",
       "sha256": "b7c774962609dca7520a3995c2f853837aeac05cd854507a8358f3a0f018f104"
     },
     {
-      "version": "v1.3.3",
+      "version": "1.3.3",
       "sha256": "a6d8e46ef176c752911c2073d01f2091364faf8de8ea16ca506981cbb5befcd7"
     },
     {
-      "version": "v1.3.1",
+      "version": "1.3.1",
       "sha256": "c740ffa2a52a2dbc3842f9496f0bdb62aeea8cca17c6e36616c68b4245ce3ab0"
     },
     {
-      "version": "v1.3.0",
+      "version": "1.3.0",
       "sha256": "e7c7b2e52b7057aff072a0d091236e936c506dde47c0e15a090ab6d124500dd9"
     },
     {
-      "version": "v1.3.8",
+      "version": "1.3.8",
       "sha256": "16119eb49aa77e9fbaf429afe93261d60ca070ec53622457088c959d33faa35e"
     },
     {
-      "version": "v1.3.9",
+      "version": "1.3.9",
       "sha256": "eeaee62bcbefc1d5166b38008dc6cb4b4853a3078082f79f7ce6272ad8aa2874"
     },
     {
-      "version": "v1.3.17",
+      "version": "1.3.17",
       "sha256": "fb70467a51b88851e62f9f7906afbd897bd966a0efa5b3c4654f713a753dec17"
     },
     {
-      "version": "v1.3.16",
+      "version": "1.3.16",
       "sha256": "1fa5ba11d2d8822155d678361e91a5ad86fdd544f62318ad56b639600cef0add"
     },
     {
-      "version": "v1.3.14",
+      "version": "1.3.14",
       "sha256": "511466fb9e124c1fa81daca348410b48ead90f1abbee214e25fe95644fa148a0"
     },
     {
-      "version": "v1.3.11",
+      "version": "1.3.11",
       "sha256": "0fc49708bde86de8120d042cf6b4044b9262ba4801325f1c97c781016c176088"
     },
     {
-      "version": "v1.3.10",
+      "version": "1.3.10",
       "sha256": "f965cd42f8fc882857fff88d7732676be07d3aec870f922eaaa7d9d646cb4dd1"
     },
     {
-      "version": "v1.3.13",
+      "version": "1.3.13",
       "sha256": "d731167093cbe40cb3d395fed44d18dbc7f542cbbb80e81ef439e535a9500267"
     }
   ],
   "releases": {
-    "v1.4.1": "zksolc-windows-amd64-gnu-v1.4.1.exe",
-    "v1.3.22": "zksolc-windows-amd64-gnu-v1.3.22.exe",
-    "v1.3.23": "zksolc-windows-amd64-gnu-v1.3.23.exe",
-    "v1.4.0": "zksolc-windows-amd64-gnu-v1.4.0.exe",
-    "v1.3.21": "zksolc-windows-amd64-gnu-v1.3.21.exe",
-    "v1.3.18": "zksolc-windows-amd64-gnu-v1.3.18.exe",
-    "v1.3.19": "zksolc-windows-amd64-gnu-v1.3.19.exe",
-    "v1.3.4": "zksolc-windows-amd64-gnu-v1.3.4.exe",
-    "v1.3.5": "zksolc-windows-amd64-gnu-v1.3.5.exe",
-    "v1.3.7": "zksolc-windows-amd64-gnu-v1.3.7.exe",
-    "v1.3.6": "zksolc-windows-amd64-gnu-v1.3.6.exe",
-    "v1.3.2": "zksolc-windows-amd64-gnu-v1.3.2.exe",
-    "v1.3.3": "zksolc-windows-amd64-gnu-v1.3.3.exe",
-    "v1.3.1": "zksolc-windows-amd64-gnu-v1.3.1.exe",
-    "v1.3.0": "zksolc-windows-amd64-gnu-v1.3.0.exe",
-    "v1.3.8": "zksolc-windows-amd64-gnu-v1.3.8.exe",
-    "v1.3.9": "zksolc-windows-amd64-gnu-v1.3.9.exe",
-    "v1.3.17": "zksolc-windows-amd64-gnu-v1.3.17.exe",
-    "v1.3.16": "zksolc-windows-amd64-gnu-v1.3.16.exe",
-    "v1.3.14": "zksolc-windows-amd64-gnu-v1.3.14.exe",
-    "v1.3.11": "zksolc-windows-amd64-gnu-v1.3.11.exe",
-    "v1.3.10": "zksolc-windows-amd64-gnu-v1.3.10.exe",
-    "v1.3.13": "zksolc-windows-amd64-gnu-v1.3.13.exe"
+    "1.4.1": "zksolc-windows-amd64-gnu-v1.4.1.exe",
+    "1.3.22": "zksolc-windows-amd64-gnu-v1.3.22.exe",
+    "1.3.23": "zksolc-windows-amd64-gnu-v1.3.23.exe",
+    "1.4.0": "zksolc-windows-amd64-gnu-v1.4.0.exe",
+    "1.3.21": "zksolc-windows-amd64-gnu-v1.3.21.exe",
+    "1.3.18": "zksolc-windows-amd64-gnu-v1.3.18.exe",
+    "1.3.19": "zksolc-windows-amd64-gnu-v1.3.19.exe",
+    "1.3.4": "zksolc-windows-amd64-gnu-v1.3.4.exe",
+    "1.3.5": "zksolc-windows-amd64-gnu-v1.3.5.exe",
+    "1.3.7": "zksolc-windows-amd64-gnu-v1.3.7.exe",
+    "1.3.6": "zksolc-windows-amd64-gnu-v1.3.6.exe",
+    "1.3.2": "zksolc-windows-amd64-gnu-v1.3.2.exe",
+    "1.3.3": "zksolc-windows-amd64-gnu-v1.3.3.exe",
+    "1.3.1": "zksolc-windows-amd64-gnu-v1.3.1.exe",
+    "1.3.0": "zksolc-windows-amd64-gnu-v1.3.0.exe",
+    "1.3.8": "zksolc-windows-amd64-gnu-v1.3.8.exe",
+    "1.3.9": "zksolc-windows-amd64-gnu-v1.3.9.exe",
+    "1.3.17": "zksolc-windows-amd64-gnu-v1.3.17.exe",
+    "1.3.16": "zksolc-windows-amd64-gnu-v1.3.16.exe",
+    "1.3.14": "zksolc-windows-amd64-gnu-v1.3.14.exe",
+    "1.3.11": "zksolc-windows-amd64-gnu-v1.3.11.exe",
+    "1.3.10": "zksolc-windows-amd64-gnu-v1.3.10.exe",
+    "1.3.13": "zksolc-windows-amd64-gnu-v1.3.13.exe"
   }
 }
