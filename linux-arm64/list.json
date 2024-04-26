@@ -1,0 +1,51 @@
+{
+  "builds": [
+    {
+      "version": "v1.4.1",
+      "sha256": "3ebf2c28ef55af829050a8ecae5f32105a4a3efc66a085a1f85e0e4910bf56e9"
+    },
+    {
+      "version": "v1.4.0",
+      "sha256": "fc3b01b1e82e91a6bca7af371776fa1c85d5d72acf0de6dc160ee89ea4443149"
+    },
+    {
+      "version": "v1.3.17",
+      "sha256": "a517cb9d72da03fecb73e39af20e147f00ed4ac94626ce94ba7bfb3852052a86"
+    },
+    {
+      "version": "v1.3.21",
+      "sha256": "4c065f9af826470a010c8ec8487470eee280b64edd91c614139d711ef4552af5"
+    },
+    {
+      "version": "v1.3.19",
+      "sha256": "d9c011a79dcb8754ff5ddcb900b17c339bdcc8d86d961ff516fe4d41891c9f42"
+    },
+    {
+      "version": "v1.3.18",
+      "sha256": "73484fe717bf47ec28cedd1f65346dabe00979d9b2bc25c65e7696025d2aff87"
+    },
+    {
+      "version": "v1.3.16",
+      "sha256": "52de363724121b0b672ea127a6e16722ed093227a65c6a859dafcc98f51fd667"
+    },
+    {
+      "version": "v1.3.22",
+      "sha256": "59ec42a008f22d59a135459d99cf4148dc9a26292626825497c9f73f84a4ea28"
+    },
+    {
+      "version": "v1.3.23",
+      "sha256": "c9857726f2a7034fae43e0e9f68700a674818e9e89e13ade26284796fae09b75"
+    }
+  ],
+  "releases": {
+    "v1.4.1": "zksolc-linux-arm64-musl-v1.4.1",
+    "v1.4.0": "zksolc-linux-arm64-musl-v1.4.0",
+    "v1.3.17": "zksolc-linux-arm64-musl-v1.3.17",
+    "v1.3.21": "zksolc-linux-arm64-musl-v1.3.21",
+    "v1.3.19": "zksolc-linux-arm64-musl-v1.3.19",
+    "v1.3.18": "zksolc-linux-arm64-musl-v1.3.18",
+    "v1.3.16": "zksolc-linux-arm64-musl-v1.3.16",
+    "v1.3.22": "zksolc-linux-arm64-musl-v1.3.22",
+    "v1.3.23": "zksolc-linux-arm64-musl-v1.3.23"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "builds": [
+    {
+      "version": "v1.3.8",
+      "sha256": "1cea75e7a4237e33b5bbec412a6fe813528a46f3aa214ddff7c89815607fa783"
+    },
+    {
+      "version": "v1.3.6",
+      "sha256": "74e53a46d1d60ded995067651aec01d260e9eec22246693f7fe06edf8f27f98d"
+    },
+    {
+      "version": "v1.3.1",
+      "sha256": "544c21990856543474ed1bfce5958d3a423b51546ec15651d8a220cde663863e"
+    },
+    {
+      "version": "v1.3.0",
+      "sha256": "cec41249e7b2909a10179f5d1374f053785079311751136948a8b5093bf23684"
+    },
+    {
+      "version": "v1.3.7",
+      "sha256": "27935404ac2adfc783ac04ed9aeb933e1f545188f15749ed4f94a9c76c173a56"
+    },
+    {
+      "version": "v1.3.9",
+      "sha256": "a13adcb7fd95de05ab538bca700c5bf4ca2c493416828ad1f6e4e5620b6c03be"
+    },
+    {
+      "version": "v1.3.14",
+      "sha256": "28082712a5af7a044a13763e394d680a842f090160c0ad17df00d5891591a2f1"
+    },
+    {
+      "version": "v1.3.13",
+      "sha256": "f6d28ae901fb9b7f1c1d5a7797ea94043f7a120704f9445ef11f99ec9d12734d"
+    },
+    {
+      "version": "v1.3.22",
+      "sha256": "9fc7a008c9d9882d1934e8be75631bf209dafefe800da75f0892ae8746fcf678"
+    },
+    {
+      "version": "v1.4.0",
+      "sha256": "e63cb5596f41db9c557e8324fe4beae6c403b658d84204a1e0028d4463ee2729"
+    },
+    {
+      "version": "v1.3.23",
+      "sha256": "ccc059d390fc6855ead5fa9469a6713920ca1f7bb136071b83ab7e2b326512cc"
+    },
+    {
+      "version": "v1.4.1",
+      "sha256": "8ce252c443fd6f9e258a0f3461d19430cf77e8348b4f8378ec07cba382afd04a"
+    },
+    {
+      "version": "v1.3.2",
+      "sha256": "7ee238a405be560e0b0ab778693a412f27542beab31acd1bac7a4719ca9352f6"
+    },
+    {
+      "version": "v1.3.5",
+      "sha256": "10d30642fb80edbfa0b6c383a3992e1ed2417693411b3cd649783f05b72703ee"
+    },
+    {
+      "version": "v1.3.4",
+      "sha256": "9c5d93af28703a96d66aa7b4916f56faa72dd79839330d4a5a3f75b20a1b8965"
+    },
+    {
+      "version": "v1.3.3",
+      "sha256": "19c6b9ad4b7ca97e617cfc923df0f8f79db26016bbe6225679ba03300a19a2e4"
+    },
+    {
+      "version": "v1.3.10",
+      "sha256": "775adb10c2392dc14ae428839e9ebb0feea3f0a9ec108199dce0b1167d35d325"
+    },
+    {
+      "version": "v1.3.17",
+      "sha256": "693600f883b4ce8b73ca781b10fcd8203fc91b2c3f82b1c6f0ffc7a99e761ce1"
+    },
+    {
+      "version": "v1.3.21",
+      "sha256": "bb94d2fb3771ace953da5373fe5fc91d5450fe68f756d46980c6d47406f117a9"
+    },
+    {
+      "version": "v1.3.19",
+      "sha256": "94463e3ad399dd04c267762d64a3af4374318b8fe1b8a90604a4c26493bfb53e"
+    },
+    {
+      "version": "v1.3.18",
+      "sha256": "41832ee23ccfad563f8bf73cb746096a283d79abedeb347ebee653d863edfc7f"
+    },
+    {
+      "version": "v1.3.16",
+      "sha256": "2f1145edf4308d1915e8eee5622f55d2ae5834f77dfb874bdcbe843685e56922"
+    },
+    {
+      "version": "v1.3.11",
+      "sha256": "f63b1add5bb4c0c0b4d1a98705e600e770ff0498f3249ad161c0029bb4ebb7b8"
+    }
+  ],
+  "releases": {
+    "v1.3.8": "zksolc-macosx-amd64-v1.3.8",
+    "v1.3.6": "zksolc-macosx-amd64-v1.3.6",
+    "v1.3.1": "zksolc-macosx-amd64-v1.3.1",
+    "v1.3.0": "zksolc-macosx-amd64-v1.3.0",
+    "v1.3.7": "zksolc-macosx-amd64-v1.3.7",
+    "v1.3.9": "zksolc-macosx-amd64-v1.3.9",
+    "v1.3.14": "zksolc-macosx-amd64-v1.3.14",
+    "v1.3.13": "zksolc-macosx-amd64-v1.3.13",
+    "v1.3.22": "zksolc-macosx-amd64-v1.3.22",
+    "v1.4.0": "zksolc-macosx-amd64-v1.4.0",
+    "v1.3.23": "zksolc-macosx-amd64-v1.3.23",
+    "v1.4.1": "zksolc-macosx-amd64-v1.4.1",
+    "v1.3.2": "zksolc-macosx-amd64-v1.3.2",
+    "v1.3.5": "zksolc-macosx-amd64-v1.3.5",
+    "v1.3.4": "zksolc-macosx-amd64-v1.3.4",
+    "v1.3.3": "zksolc-macosx-amd64-v1.3.3",
+    "v1.3.10": "zksolc-macosx-amd64-v1.3.10",
+    "v1.3.17": "zksolc-macosx-amd64-v1.3.17",
+    "v1.3.21": "zksolc-macosx-amd64-v1.3.21",
+    "v1.3.19": "zksolc-macosx-amd64-v1.3.19",
+    "v1.3.18": "zksolc-macosx-amd64-v1.3.18",
+    "v1.3.16": "zksolc-macosx-amd64-v1.3.16",
+    "v1.3.11": "zksolc-macosx-amd64-v1.3.11"
+  }
+}
